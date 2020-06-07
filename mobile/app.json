@@ -1,11 +1,10 @@
 {
   "expo": {
-    "name": "mobile",
+    "name": "Ecoleta",
     "slug": "mobile",
     "platforms": [
       "ios",
-      "android",
-      "web"
+      "android"
     ],
     "version": "1.0.0",
     "orientation": "portrait",
@@ -13,7 +12,7 @@
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#f0f0f5"
     },
     "updates": {
       "fallbackToCacheTimeout": 0
@@ -24,5 +23,13 @@
     "ios": {
       "supportsTablet": true
     }
+  },
+  "android": {
+    "package": "com.nextlevelweek.ecoleta",
+    "adaptiveIcon": {
+      "backgroundColor": "#f0f0f5",
+      "foregroundImage": "./assets/icon.png"
+    },
+    "versionCode": 1.0
   }
 }
