@@ -2,6 +2,7 @@
 
 ## :triangular_ruler: Projeto
 ### Ecoleta é um projeto que foi desenvolvido durante a "Next Level Week 01" da Rocketseat, que tem como base a semana internacional do meio  ambiente. O objetivo da aplicação é conectar pessoas à empresas que coletam resíduos orgânicos e recicláveis.
+![Ecoleta mockup](https://github.com/eduardopetri/NLWEcoleta/blob/master/EcoletaMockup.png)
 
 ## :computer: Tecnologias
 ### Este projeto foi desenvolvido com as seguintes tecnologias:
