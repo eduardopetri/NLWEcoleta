@@ -18,11 +18,11 @@
 
 ## :computer: Tecnologias
 ### Este projeto foi desenvolvido com as seguintes tecnologias:
-* TypeScript
-* Node.js
-* React
-* React Native
-* SQLite
+* [TypeScript](https://www.typescriptlang.org/)
+* [Node.js](https://nodejs.org/en/)
+* [React](https://reactjs.org/)
+* [React Native](https://reactnative.dev/)
+* [SQLite](https://www.sqlite.org/index.html)
 
 ## :globe_with_meridians: API Externa
 #### Para buscar os estados e cidades do Brasil foi utilizado a API do IBGE que pode ser encontrada [aqui](https://servicodados.ibge.gov.br/api/docs/localidades).
