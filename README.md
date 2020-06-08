@@ -58,3 +58,9 @@
 
 #### Inicie a aplicação
 > $ expo start
+
+## :bulb: Contribuição
+#### Você pode contribuir da forma que quiser, basta fazer um fork da aplicação e criar um pull request para a aprovação da sua contribuição. 
+
+##
+Você pode me encontrar no [Linkedin](https://www.linkedin.com/in/eduardo-petri/) para conversarmos sobre a aplicação ou alguma ideia nova. __E bora codar :coffee: :computer: !__
