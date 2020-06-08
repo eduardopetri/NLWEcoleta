@@ -74,6 +74,7 @@
 ## :bulb: Contribuição
 #### Você pode contribuir da forma que quiser, basta fazer um fork da aplicação e criar um pull request para a aprovação da sua contribuição. 
 
+#
 <p align="center">
 Você pode me encontrar no <a href="https://www.linkedin.com/in/eduardo-petri/">Linkedin</a> para conversarmos sobre a aplicação ou alguma ideia nova.<br/> <b>Let's code :coffee: :computer: !</b>
 </p>
